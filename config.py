@@ -2,23 +2,25 @@
 #  CONFIGURATION — le seul fichier que tu dois modifier
 # ==========================================================
 
-INTERVALLE_MINUTES = 30   # temps entre deux collectes (ne descends pas sous 15)
+LEBONCOIN_ACTIF = True      # mets False si le site affiche toujours "Leboncoin : bloqué"
+JOURS_HISTORIQUE = 30       # les offres plus vieilles sont effacées
 
-# --- Notifications Telegram (optionnel : laisse vide pour désactiver)
-TELEGRAM_TOKEN = ""
-TELEGRAM_CHAT_ID = ""
+# Flux RSS Dealabs (promos neuves)
+DEALABS_FLUX = [
+    "https://www.dealabs.com/rss/groupe/informatique",
+]
 
-# --- Mots qui éliminent une annonce, quelle que soit la source
+# Mots qui éliminent une annonce, quelle que soit la source
 EXCLUSIONS_GLOBALES = [
     "cherche", "hs", "pour pieces", "en panne", "defectueux", "ne fonctionne",
     "boite vide", "pc gamer", "pc complet", "unite centrale", "portable", "laptop",
 ]
 
-# --- Composants surveillés
-#  mots     : TOUS doivent être présents dans le titre (espaces ignorés : "7800xt" = "7800 XT")
-#  exclure  : si UN est présent, l'annonce est ignorée
-#  prix_max : en dessous = bonne affaire 🔥  (valeurs d'exemple : ajuste-les !)
-#  recherche: texte tapé dans Leboncoin (sinon le nom est utilisé)
+# Composants surveillés
+#  mots      : TOUS doivent être dans le titre (espaces ignorés : "7800xt" = "7800 XT")
+#  exclure   : si UN est présent, l'annonce est ignorée
+#  prix_max  : en dessous = bonne affaire 🔥 (exemples : ajuste-les !)
+#  recherche : texte tapé dans Leboncoin (sinon le nom est utilisé)
 WATCHLIST = [
     {"nom": "RX 9070 XT", "type": "GPU", "mots": ["9070xt"], "exclure": [], "prix_max": 550, "recherche": "rx 9070 xt"},
     {"nom": "RTX 5070", "type": "GPU", "mots": ["5070"], "exclure": ["ti", "5070ti"], "prix_max": 480, "recherche": "rtx 5070"},
@@ -32,5 +34,5 @@ WATCHLIST = [
     {"nom": "Alim 850W Gold", "type": "Alimentation", "mots": ["850w", "gold"], "exclure": [], "prix_max": 90, "recherche": "alimentation 850w gold"},
 ]
 
-# --- Ta config cible (noms pris dans la WATCHLIST) : le site calcule le total
+# Ta config cible (noms pris dans la WATCHLIST) : le site calcule le total
 MA_CONFIG = ["Ryzen 7 7800X3D", "Carte mère B650", "DDR5 32 Go", "RX 9070 XT", "SSD NVMe 2 To", "Alim 850W Gold"]
