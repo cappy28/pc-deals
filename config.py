@@ -36,4 +36,3 @@ WATCHLIST = [
 
 # Ta config cible (noms pris dans la WATCHLIST) : le site calcule le total
 MA_CONFIG = ["Ryzen 7 7800X3D", "Carte mère B650", "DDR5 32 Go", "RX 9070 XT", "SSD NVMe 2 To", "Alim 850W Gold"]
-
