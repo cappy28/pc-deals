@@ -1,0 +1,388 @@
+{
+ "maj": "2026-10-22 20:20",
+ "nouvelles": 24,
+ "erreurs": [
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+ ],
+ "types": [
+  "Alimentation",
+  "CPU",
+  "Carte mère",
+  "GPU",
+  "RAM",
+  "SSD"
+ ],
+ "config": [
+  {
+   "nom": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "prix_max": 280,
+   "mediane": null,
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
+    "titre": "Processeur AMD Ryzen 7 7800X3D 8 cœurs 16 threads R7 7800X3D",
+    "prix": 269.42,
+    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
+    "lieu": "AliExpress",
+    "composant": "Ryzen 7 7800X3D",
+    "type": "CPU",
+    "vu_le": "2026-10-22T20:20:44",
+    "statut": "affaire"
+   }
+  },
+  {
+   "nom": "Carte mère B650",
+   "type": "Carte mère",
+   "prix_max": 120,
+   "mediane": null,
+   "meilleure": null
+  },
+  {
+   "nom": "DDR5 32 Go",
+   "type": "RAM",
+   "prix_max": 110,
+   "mediane": null,
+   "meilleure": null
+  },
+  {
+   "nom": "RX 9070 XT",
+   "type": "GPU",
+   "prix_max": 550,
+   "mediane": 700.0,
+   "meilleure": {
+    "source": "leboncoin",
+    "ext_id": "3290312435",
+    "titre": "ASRock Radeon RX 9070 XT Steel Legend 16 Go Blanche",
+    "prix": 450.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3290312435",
+    "lieu": "La Barthe-de-Neste",
+    "composant": "RX 9070 XT",
+    "type": "GPU",
+    "vu_le": "2026-10-22T20:20:44",
+    "statut": "affaire"
+   }
+  },
+  {
+   "nom": "SSD NVMe 2 To",
+   "type": "SSD",
+   "prix_max": 120,
+   "mediane": null,
+   "meilleure": null
+  },
+  {
+   "nom": "Alim 850W Gold",
+   "type": "Alimentation",
+   "prix_max": 90,
+   "mediane": null,
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
+    "titre": "Alimentation PC Asus Prime AP-850G - 850W, 80+ Gold, Compatible ATX 3.1 (Blanc et Noir)",
+    "prix": 89.99,
+    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
+    "lieu": "Fnac",
+    "composant": "Alim 850W Gold",
+    "type": "Alimentation",
+    "vu_le": "2026-10-22T20:20:44",
+    "statut": "affaire"
+   }
+  }
+ ],
+ "total": 809.4100000000001,
+ "manquants": [
+  "Carte mère B650",
+  "DDR5 32 Go",
+  "SSD NVMe 2 To"
+ ],
+ "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
+   "titre": "Processeur AMD Ryzen 7 7800X3D 8 cœurs 16 threads R7 7800X3D",
+   "prix": 269.42,
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
+   "titre": "Alimentation PC Asus Prime AP-850G - 850W, 80+ Gold, Compatible ATX 3.1 (Blanc et Noir)",
+   "prix": 89.99,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
+   "lieu": "Fnac",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-gamer-phoenix-rtx-3090-24go-ryzen-7-7800x3d-32go-ddr5-3436619",
+   "titre": "PC de bureau Phoenix - Ryzen 7 7800X3D, RTX 3090 24 Go (occasion), 32 Go RAM DDR5, 1 To SSD",
+   "prix": 1999.0,
+   "url": "https://www.dealabs.com/bons-plans/pc-gamer-phoenix-rtx-3090-24go-ryzen-7-7800x3d-32go-ddr5-3436619",
+   "lieu": "Déclic Info",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3292822433",
+   "titre": "Rx 9070xt challenger",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3292822433",
+   "lieu": "Les Islettes",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3292762382",
+   "titre": "Sapphire PULSE AMD Radeon™ RX 9070 XT 16GB",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3292762382",
+   "lieu": "Saint-Dizier",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3292235981",
+   "titre": "Vend ou Échange RX 9070 XT GIGABYTE",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3292235981",
+   "lieu": "Rumilly",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3292070874",
+   "titre": "Carte graphique AMD 9070XT",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3292070874",
+   "lieu": "Vulbens",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3291850553",
+   "titre": "ASUS Prime Radeon RX 9070 XT 16GB GDDR6 White OC Edition Carte Graphique",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3291850553",
+   "lieu": "Noisy-le-Sec",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3290822803",
+   "titre": "Gigabyte Radeon RX 9070 XT Gaming OC 16Gb (2 mois)",
+   "prix": 760.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3290822803",
+   "lieu": "Saint-Maximin-la-Sainte-Baume",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3290312435",
+   "titre": "ASRock Radeon RX 9070 XT Steel Legend 16 Go Blanche",
+   "prix": 450.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3290312435",
+   "lieu": "La Barthe-de-Neste",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "affaire"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3289603393",
+   "titre": "Rx 9070xt saphirre blanche",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3289603393",
+   "lieu": "Saulx-les-Chartreux",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3289578731",
+   "titre": "Asus PRIME Radeon RX 9070 XT 16GB",
+   "prix": 630.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3289578731",
+   "lieu": "Langeac",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3285863791",
+   "titre": "9070 xt saphire pulse",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3285863791",
+   "lieu": "Troissy",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3285627120",
+   "titre": "Rx 9070 xt sapphire neuve",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3285627120",
+   "lieu": "Croix",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3274368051",
+   "titre": "Rx 9070xt asrock challenger garentit septembre 2027",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3274368051",
+   "lieu": "Châlons-en-Champagne",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3273443878",
+   "titre": "J'[ACHETE] une rx 9070 xt blanche",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3273443878",
+   "lieu": "Paris",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3270188928",
+   "titre": "Gigabyte Radeon RX 9070 XT GAMING OC 16G",
+   "prix": 760.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3270188928",
+   "lieu": "Eysines",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3258264074",
+   "titre": "Carte graphique AMD Rx 9070 xt Radeon",
+   "prix": 620.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3258264074",
+   "lieu": "Strasbourg",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3256899211",
+   "titre": "Rx 9070xt",
+   "prix": 769.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3256899211",
+   "lieu": "Vaulx-en-Velin",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3230201126",
+   "titre": "Radon gigabyte 9070 xt 16 ram oc gaming",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3230201126",
+   "lieu": "Rivesaltes",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3207378297",
+   "titre": "AMD Sapphire Nitro+ Radeon™ RX 9070 XT Gaming OC 16GB Dual HDMI/Dual DP",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3207378297",
+   "lieu": "Vierzon",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3204540866",
+   "titre": "Carte graphique amd Radeon RX9070XT 16gb",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3204540866",
+   "lieu": "Garges-lès-Gonesse",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3204395352",
+   "titre": "AMD Radeon RX 9070 XT 16 Go",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3204395352",
+   "lieu": "Semur-en-Auxois",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3168955507",
+   "titre": "Sapphire Pulse RX 9070 XT",
+   "prix": 740.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3168955507",
+   "lieu": "Mouans-Sartoux",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-22T20:20:44",
+   "statut": "normal"
+  }
+ ]
+}
