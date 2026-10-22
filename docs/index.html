@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PC Deals</title>
+<style>
+  body{font-family:system-ui,sans-serif;background:#0f1115;color:#e6e6e6;margin:0;padding:14px}
+  a{color:#7cc4ff;text-decoration:none}
+  .muted{color:#9ca3af;font-size:.9em}
+  .grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin:12px 0}
+  .carte{background:#1a1d24;border-radius:10px;padding:10px}
+  .prix{font-size:1.5em;font-weight:bold}
+  .ok{color:#4ade80}
+  .total{font-size:1.2em}
+  .filtres{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+  select{background:#1a1d24;color:#e6e6e6;border:1px solid #2a2e37;border-radius:6px;padding:8px}
+  .offre{background:#1a1d24;border-radius:10px;padding:10px;margin-bottom:8px;display:block;color:inherit}
+  .offre.affaire{background:#14361f} .offre.suspect{background:#3a2a10}
+  .ligne{display:flex;justify-content:space-between;gap:8px}
+  .erreur{color:#fbbf24}
+</style>
+</head>
+<body>
+<h1>🖥️ PC Deals</h1>
+<p id="etat" class="muted">Chargement…</p>
+
+<h2>Ma config</h2>
+<div id="cartes" class="grille"></div>
+<p id="total" class="total"></p>
+
+<h2>Toutes les offres</h2>
+<div class="filtres">
+  <select id="f-type"><option value="">Tous types</option></select>
+  <select id="f-source">
+    <option value="">Toutes sources</option>
+    <option value="leboncoin">Leboncoin (occasion)</option>
+    <option value="dealabs">Dealabs (neuf/promo)</option>
+  </select>
+  <label><input type="checkbox" id="f-affaires"> 🔥 seulement</label>
+</div>
+<div id="liste"></div>
+
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const eur = p => p == null ? "?" : Math.round(p) + " €";
+const ICONE = {affaire: "🔥", suspect: "⚠️", normal: "", inconnu: "?"};
+let DATA = null;
+
+function afficherListe() {
+  const t = document.getElementById("f-type").value;
+  const s = document.getElementById("f-source").value;
+  const a = document.getElementById("f-affaires").checked;
+  const offres = DATA.offres.filter(o => (!t || o.type === t) && (!s || o.source === s) && (!a || o.statut === "affaire"));
+  document.getElementById("liste").innerHTML = offres.length ? offres.slice(0, 300).map(o => `
+    <a class="offre ${esc(o.statut)}" href="${esc(o.url)}" target="_blank" rel="noopener">
+      <div class="ligne"><b>${ICONE[o.statut] || ""} ${esc(o.composant)}</b><b>${eur(o.prix)}</b></div>
+      <div>${esc(o.titre)}</div>
+      <div class="muted">${esc(o.source)} · ${esc(o.lieu)} · ${esc(o.vu_le.slice(0, 16).replace("T", " "))}</div>
+    </a>`).join("") : '<p class="muted">Aucune offre pour l\'instant.</p>';
+}
+
+async function charger() {
+  try {
+    const r = await fetch("data.json?t=" + Date.now());
+    if (!r.ok) throw new Error();
+    DATA = await r.json();
+  } catch {
+    document.getElementById("etat").textContent = "Pas encore de données : lance le workflow dans l'onglet Actions.";
+    return;
+  }
+  document.getElementById("etat").innerHTML =
+    `Dernière collecte : ${esc(DATA.maj)} — ${DATA.nouvelles} nouvelle(s) offre(s)` +
+    DATA.erreurs.map(e => `<br><span class="erreur">⚠️ ${esc(e)}</span>`).join("");
+
+  document.getElementById("cartes").innerHTML = DATA.config.map(c => `
+    <div class="carte">
+      <div class="muted">${esc(c.type)}</div><b>${esc(c.nom)}</b>
+      ${c.meilleure
+        ? `<div class="prix ${c.meilleure.prix <= c.prix_max ? "ok" : ""}">${eur(c.meilleure.prix)}</div>
+           <a href="${esc(c.meilleure.url)}" target="_blank" rel="noopener">${esc(c.meilleure.source)} · ${esc(c.meilleure.lieu)}</a>`
+        : `<div class="prix muted">—</div>`}
+      <div class="muted">Objectif ≤ ${c.prix_max} €${c.mediane ? ` · médiane occaz ${eur(c.mediane)}` : ""}</div>
+    </div>`).join("");
+
+  document.getElementById("total").innerHTML = `Total (meilleurs prix sur 7 jours) : <b>${eur(DATA.total)}</b>` +
+    (DATA.manquants.length ? `<br><span class="muted">Pas encore trouvé : ${esc(DATA.manquants.join(", "))}</span>` : "");
+
+  const sel = document.getElementById("f-type");
+  sel.length = 1;
+  DATA.types.forEach(t => sel.add(new Option(t, t)));
+  afficherListe();
+}
+
+["f-type", "f-source", "f-affaires"].forEach(id => document.getElementById(id).addEventListener("change", afficherListe));
+charger();
+</script>
+</body>
+      </html>
+  
