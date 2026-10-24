@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-24 15:29",
+ "maj": "2026-10-24 18:52",
  "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -36,7 +36,18 @@
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
+    "titre": "Carte mère Colorful Battle-AX B650M-White WiFi V15 - AM5, Micro-ATX, PCIe 5.0 x16, WiFi 6, Blanc",
+    "prix": 85.49,
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
+    "lieu": "JoyBuy",
+    "composant": "Carte mère B650",
+    "type": "Carte mère",
+    "vu_le": "2026-10-24T18:52:56",
+    "statut": "affaire"
+   }
   },
   {
    "nom": "DDR5 32 Go",
@@ -89,13 +100,24 @@
    }
   }
  ],
- "total": 809.4100000000001,
+ "total": 894.9000000000001,
  "manquants": [
-  "Carte mère B650",
   "DDR5 32 Go",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
+   "titre": "Carte mère Colorful Battle-AX B650M-White WiFi V15 - AM5, Micro-ATX, PCIe 5.0 x16, WiFi 6, Blanc",
+   "prix": 85.49,
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
+   "lieu": "JoyBuy",
+   "composant": "Carte mère B650",
+   "type": "Carte mère",
+   "vu_le": "2026-10-24T18:52:56",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7500x3d-rx-9070-xt-1to-16go-ddr5-asus-rog-b650e-i-850w-gold-3437933",
