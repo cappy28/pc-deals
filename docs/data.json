@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-24 18:52",
- "nouvelles": 1,
+ "maj": "2026-10-24 21:17",
+ "nouvelles": 2,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -106,6 +106,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3293126717",
+   "titre": "Carte graphique Asus RX 9070 XT",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3293126717",
+   "lieu": "Gaillard",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-24T21:17:29",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3294455016",
+   "titre": "Acer Predator BiFrost Radeon RX 9070 XT OC 16 Go",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3294455016",
+   "lieu": "Saint-Rome-de-Tarn",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-24T21:17:29",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
