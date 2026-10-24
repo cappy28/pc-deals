@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-24 11:20",
- "nouvelles": 0,
+ "maj": "2026-10-24 15:29",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7500x3d-rx-9070-xt-1to-16go-ddr5-asus-rog-b650e-i-850w-gold-3437933",
+   "titre": "PC de bureau, Ryzen 7500X3D, RX 9070 XT, 1To Gen4, 16Go DDR5, Asus ROG B650E-I, 850W Gold, Master Sneaker, Watercooling 360",
+   "prix": 1799.0,
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7500x3d-rx-9070-xt-1to-16go-ddr5-asus-rog-b650e-i-850w-gold-3437933",
+   "lieu": "EZ-store",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-24T15:29:30",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3293822194",
