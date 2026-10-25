@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-24 23:45",
- "nouvelles": 0,
+ "maj": "2026-10-25 02:03",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -106,6 +106,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-code-promo-20eur-payment-karlma-33eur-3438237",
+   "titre": "Ryzen 7 9800x3d code promo 20€ payment karlna 33€",
+   "prix": 274.99,
+   "url": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-code-promo-20eur-payment-karlma-33eur-3438237",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-10-25T02:03:08",
+   "statut": "affaire"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3293126717",
