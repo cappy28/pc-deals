@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-25 18:48",
+ "maj": "2026-10-25 21:29",
  "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -71,7 +71,7 @@
    "nom": "RX 9070 XT",
    "type": "GPU",
    "prix_max": 550,
-   "mediane": 720.0,
+   "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
     "ext_id": "3290312435",
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3295273149",
+   "titre": "ASUS TUF Gaming Radeon RX 9070 XT 16GB",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3295273149",
+   "lieu": "Clisson",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-25T21:29:55",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
