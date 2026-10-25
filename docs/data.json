@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-25 15:29",
+ "maj": "2026-10-25 18:48",
  "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -54,7 +54,18 @@
    "type": "RAM",
    "prix_max": 110,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
+    "titre": "Kit RAM G.Skill 64 Go DDR5-6000 - 2x 32 Go",
+    "prix": 999.0,
+    "url": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
+    "lieu": "Alternate",
+    "composant": "DDR5 32 Go",
+    "type": "RAM",
+    "vu_le": "2026-10-25T18:48:03",
+    "statut": "normal"
+   }
   },
   {
    "nom": "RX 9070 XT",
@@ -100,12 +111,23 @@
    }
   }
  ],
- "total": 894.9000000000001,
+ "total": 1893.9,
  "manquants": [
-  "DDR5 32 Go",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
+   "titre": "Kit RAM G.Skill 64 Go DDR5-6000 - 2x 32 Go",
+   "prix": 999.0,
+   "url": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
+   "lieu": "Alternate",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-10-25T18:48:03",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-3438534",
