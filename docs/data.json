@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-26 07:45",
- "nouvelles": 0,
+ "maj": "2026-10-26 14:58",
+ "nouvelles": 2,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -116,6 +116,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen7500x3d-rx-9070-16go-32go-ddr5-ssd-1to-700w-gold-3439202",
+   "titre": "PC de bureau - Ryzen 7500X3D, RX 9070 16 Go, 32 Go DDR5, SSD 1 To, 700W Gold",
+   "prix": 1699.0,
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen7500x3d-rx-9070-16go-32go-ddr5-ssd-1to-700w-gold-3439202",
+   "lieu": "CSL Computer",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-10-26T14:58:28",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3295568067",
+   "titre": "Sapphire Pulse AMD Radeon RX 9070 XT 16GB",
+   "prix": 610.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3295568067",
+   "lieu": "Condat",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-26T14:58:28",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3295273149",
