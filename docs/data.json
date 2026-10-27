@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-27 16:50",
- "nouvelles": 0,
+ "maj": "2026-10-27 21:28",
+ "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pure-radeon-rx-9070-xt-gaming-oc-16gb-3440165",
+   "titre": "Carte Graphique Sapphire Radeon RX 9070 XT Pure Gaming OC 16 Go",
+   "prix": 899.99,
+   "url": "https://www.dealabs.com/bons-plans/pure-radeon-rx-9070-xt-gaming-oc-16gb-3440165",
+   "lieu": "Amazon",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-27T21:28:53",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen7500x3d-rx-9070-16go-32go-ddr5-ssd-1to-700w-gold-3439202",
