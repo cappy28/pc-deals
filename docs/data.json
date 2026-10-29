@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-29 16:26",
- "nouvelles": 0,
+ "maj": "2026-10-29 21:29",
+ "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -18,18 +18,7 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
-    "titre": "Processeur AMD Ryzen 7 7800X3D 8 cœurs 16 threads R7 7800X3D",
-    "prix": 269.42,
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-r7-7800x3d-3436766",
-    "lieu": "AliExpress",
-    "composant": "Ryzen 7 7800X3D",
-    "type": "CPU",
-    "vu_le": "2026-10-22T20:20:44",
-    "statut": "affaire"
-   }
+   "meilleure": null
   },
   {
    "nom": "Carte mère B650",
@@ -56,14 +45,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
-    "titre": "Kit RAM G.Skill 64 Go DDR5-6000 - 2x 32 Go",
-    "prix": 999.0,
-    "url": "https://www.dealabs.com/bons-plans/kit-ram-gskill-64-go-ddr5-6000-2x-32-go-3438605",
-    "lieu": "Alternate",
+    "ext_id": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
+    "titre": "Kit mémoire Ram DDR5 G.Skill Flare X5 Series Low Profile 32 Go (2x16 Go) - 6000MHz, CL36",
+    "prix": 477.0,
+    "url": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
+    "lieu": "Amazon",
     "composant": "DDR5 32 Go",
     "type": "RAM",
-    "vu_le": "2026-10-25T18:48:03",
+    "vu_le": "2026-10-29T21:29:26",
     "statut": "normal"
    }
   },
@@ -74,15 +63,15 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3290312435",
-    "titre": "ASRock Radeon RX 9070 XT Steel Legend 16 Go Blanche",
-    "prix": 450.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3290312435",
-    "lieu": "La Barthe-de-Neste",
+    "ext_id": "3295568067",
+    "titre": "Sapphire Pulse AMD Radeon RX 9070 XT 16GB",
+    "prix": 610.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3295568067",
+    "lieu": "Condat",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-10-22T20:20:44",
-    "statut": "affaire"
+    "vu_le": "2026-10-26T14:58:28",
+    "statut": "normal"
    }
   },
   {
@@ -97,25 +86,28 @@
    "type": "Alimentation",
    "prix_max": 90,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
-    "titre": "Alimentation PC Asus Prime AP-850G - 850W, 80+ Gold, Compatible ATX 3.1 (Blanc et Noir)",
-    "prix": 89.99,
-    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-asus-prime-ap-850g-850w-80-gold-compatible-atx-31-blanc-et-noir-3436736",
-    "lieu": "Fnac",
-    "composant": "Alim 850W Gold",
-    "type": "Alimentation",
-    "vu_le": "2026-10-22T20:20:44",
-    "statut": "affaire"
-   }
+   "meilleure": null
   }
  ],
- "total": 1893.9,
+ "total": 1172.49,
  "manquants": [
-  "SSD NVMe 2 To"
+  "Ryzen 7 7800X3D",
+  "SSD NVMe 2 To",
+  "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
+   "titre": "Kit mémoire Ram DDR5 G.Skill Flare X5 Series Low Profile 32 Go (2x16 Go) - 6000MHz, CL36",
+   "prix": 477.0,
+   "url": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
+   "lieu": "Amazon",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-10-29T21:29:26",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3440591",
