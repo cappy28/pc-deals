@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-30 07:15",
- "nouvelles": 0,
+ "maj": "2026-10-30 14:21",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -18,7 +18,18 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
+    "titre": "[Via PayPal] Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz, 96 Mo Cache 3D V-Cache, Socket AM5, sans ventilateur",
+    "prix": 180.24,
+    "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
+    "lieu": "AliExpress",
+    "composant": "Ryzen 7 7800X3D",
+    "type": "CPU",
+    "vu_le": "2026-10-30T14:21:56",
+    "statut": "affaire"
+   }
   },
   {
    "nom": "Carte mère B650",
@@ -89,13 +100,24 @@
    "meilleure": null
   }
  ],
- "total": 1172.49,
+ "total": 1352.73,
  "manquants": [
-  "Ryzen 7 7800X3D",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
+   "titre": "[Via PayPal] Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz, 96 Mo Cache 3D V-Cache, Socket AM5, sans ventilateur",
+   "prix": 180.24,
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-10-30T14:21:56",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
