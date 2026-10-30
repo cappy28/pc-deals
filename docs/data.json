@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-30 14:21",
- "nouvelles": 1,
+ "maj": "2026-10-30 19:45",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -106,6 +106,30 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-gamer-amd-ryzen-7-5700x-rtx-5070-16-go-ram-ssd-1-to-windows-11-remise-immediate-de-250-eur-3442065",
+   "titre": "PC Fixe AMD Ryzen 7 5700X / RTX 5070 - 16 Go RAM, SSD 1 To, Windows 11",
+   "prix": 1749.99,
+   "url": "https://www.dealabs.com/bons-plans/pc-gamer-amd-ryzen-7-5700x-rtx-5070-16-go-ram-ssd-1-to-windows-11-remise-immediate-de-250-eur-3442065",
+   "lieu": "Carrefour",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-10-30T19:45:21",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3298318092",
+   "titre": "Neuf - ASUS AMD Radeon RX9070XT PCIe 5.0 16GB GDDR6 PRIME-RX9070XT-O16G Carte Graphique",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3298318092",
+   "lieu": "Ternay",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-30T19:45:21",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
