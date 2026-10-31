@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-31 16:08",
- "nouvelles": 2,
+ "maj": "2026-10-31 20:28",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -36,18 +36,7 @@
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
-    "titre": "Carte mère Colorful Battle-AX B650M-White WiFi V15 - AM5, Micro-ATX, PCIe 5.0 x16, WiFi 6, Blanc",
-    "prix": 85.49,
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
-    "lieu": "JoyBuy",
-    "composant": "Carte mère B650",
-    "type": "Carte mère",
-    "vu_le": "2026-10-24T18:52:56",
-    "statut": "affaire"
-   }
+   "meilleure": null
   },
   {
    "nom": "DDR5 32 Go",
@@ -74,15 +63,15 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3295568067",
-    "titre": "Sapphire Pulse AMD Radeon RX 9070 XT 16GB",
-    "prix": 610.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3295568067",
-    "lieu": "Condat",
+    "ext_id": "3298577580",
+    "titre": "Sapphire Pulse AMD Radeon RX 9070 XT",
+    "prix": 450.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3298577580",
+    "lieu": "Bonnefond",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-10-26T14:58:28",
-    "statut": "normal"
+    "vu_le": "2026-10-31T20:28:31",
+    "statut": "affaire"
    }
   },
   {
@@ -100,12 +89,25 @@
    "meilleure": null
   }
  ],
- "total": 1352.73,
+ "total": 1107.24,
  "manquants": [
+  "Carte mère B650",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3298577580",
+   "titre": "Sapphire Pulse AMD Radeon RX 9070 XT",
+   "prix": 450.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3298577580",
+   "lieu": "Bonnefond",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-31T20:28:31",
+   "statut": "affaire"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3299033670",
