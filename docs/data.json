@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-31 03:04",
+ "maj": "2026-10-31 09:42",
  "nouvelles": 0,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
