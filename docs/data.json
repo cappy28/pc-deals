@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-31 09:42",
- "nouvelles": 0,
+ "maj": "2026-10-31 16:08",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -106,6 +106,30 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3299033670",
+   "titre": "Rx 9070 xt XFX mercury OC",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3299033670",
+   "lieu": "Colombes",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-10-31T16:08:44",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3298005619",
+   "titre": "Carte graphique hp omen rtx 4070 super 12Go",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3298005619",
+   "lieu": "Chilly-Mazarin",
+   "composant": "RTX 4070 Super",
+   "type": "GPU",
+   "vu_le": "2026-10-31T16:08:44",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/pc-gamer-amd-ryzen-7-5700x-rtx-5070-16-go-ram-ssd-1-to-windows-11-remise-immediate-de-250-eur-3442065",
