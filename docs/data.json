@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-01 09:54",
- "nouvelles": 0,
+ "maj": "2026-11-01 16:51",
+ "nouvelles": 5,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -36,7 +36,18 @@
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
+    "titre": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
+    "prix": 82.06,
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
+    "lieu": "AliExpress",
+    "composant": "Carte mère B650",
+    "type": "Carte mère",
+    "vu_le": "2026-11-01T16:51:27",
+    "statut": "affaire"
+   }
   },
   {
    "nom": "DDR5 32 Go",
@@ -89,13 +100,72 @@
    "meilleure": null
   }
  ],
- "total": 1107.24,
+ "total": 1189.3,
  "manquants": [
-  "Carte mère B650",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
+   "titre": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
+   "prix": 82.06,
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
+   "lieu": "AliExpress",
+   "composant": "Carte mère B650",
+   "type": "Carte mère",
+   "vu_le": "2026-11-01T16:51:27",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/cpu-amd-am5-9800x3d-60eur-code-promo-33eur-paiement-paypal-3443201",
+   "titre": "Processeur AMD Ryzen 7 9800X3D - AM5, Zen 5, 8C/16T, Jusqu'à 5,2 GHz, 96 Mo de 3D V-Cache (Via Paiement Paypal)",
+   "prix": 266.51,
+   "url": "https://www.dealabs.com/bons-plans/cpu-amd-am5-9800x3d-60eur-code-promo-33eur-paiement-paypal-3443201",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-01T16:51:27",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
+   "titre": "Processeur AMD Ryzen 7 7800X3D - AM5, 8C/16T, 96 Mo de 3D V-Cache (Via Paiement PayPal)",
+   "prix": 180.24,
+   "url": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-01T16:51:27",
+   "statut": "affaire"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3300029311",
+   "titre": "Carte graphique Sapphire NITRO+ Radeon RX 9070 XT 16 Go",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3300029311",
+   "lieu": "Poitiers",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-01T16:51:27",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3300009193",
+   "titre": "Asus prime amd Radeon 9070xt",
+   "prix": 745.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3300009193",
+   "lieu": "Vertou",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-01T16:51:27",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3299288666",
