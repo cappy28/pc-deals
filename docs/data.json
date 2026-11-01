@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01 21:18",
+ "maj": "2026-11-02 00:47",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -106,6 +106,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-firebat-a8-amd-ryzen-ai-9-365-32-go-ddr5-1-to-ssd-pcie40-windows-11-oculink-3443778",
+   "titre": "Mini PC Firebat A8 AMD Ryzen AI 9 365, 32 Go DDR5 / 1 To SSD , iGPU 880M, Windows 11, OCuLink",
+   "prix": 932.6,
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-firebat-a8-amd-ryzen-ai-9-365-32-go-ddr5-1-to-ssd-pcie40-windows-11-oculink-3443778",
+   "lieu": "AliExpress",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-02T00:47:32",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-intel-ultra-225-avec-igpu-32go-ddr5-1to-sn3000-h810m-pure-rock-500w-3443664",
