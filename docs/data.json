@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-31 23:45",
- "nouvelles": 0,
+ "maj": "2026-11-01 02:56",
+ "nouvelles": 1,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -96,6 +96,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3299288666",
+   "titre": "PowerColor Hellhound AMD Radeon RX 9070 XT 16GB OC",
+   "prix": 700.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3299288666",
+   "lieu": "Alfortville",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-01T02:56:00",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3298577580",
