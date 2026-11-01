@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-01 16:51",
- "nouvelles": 5,
+ "maj": "2026-11-01 21:18",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -20,14 +20,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
-    "titre": "[Via PayPal] Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz, 96 Mo Cache 3D V-Cache, Socket AM5, sans ventilateur",
+    "ext_id": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
+    "titre": "Processeur AMD Ryzen 7 7800X3D - AM5, 8C/16T, 96 Mo de 3D V-Cache (Via Paiement PayPal)",
     "prix": 180.24,
-    "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-96-mo-cache-3d-v-cache-socket-am5-sans-ventilateur-3441384",
+    "url": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
     "lieu": "AliExpress",
     "composant": "Ryzen 7 7800X3D",
     "type": "CPU",
-    "vu_le": "2026-10-30T14:21:56",
+    "vu_le": "2026-11-01T16:51:27",
     "statut": "affaire"
    }
   },
@@ -106,6 +106,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-intel-ultra-225-avec-igpu-32go-ddr5-1to-sn3000-h810m-pure-rock-500w-3443664",
+   "titre": "PC de bureau PCCom Work - Intel Ultra 225 (avec iGpu), 32Go DDR5, 1To SN3000, H810M, Pure Rock, 500W",
+   "prix": 786.0,
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-intel-ultra-225-avec-igpu-32go-ddr5-1to-sn3000-h810m-pure-rock-500w-3443664",
+   "lieu": "PcComponentes",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-01T21:18:30",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
