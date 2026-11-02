@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02 05:52",
+ "maj": "2026-11-02 14:12",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -97,15 +97,37 @@
    "type": "Alimentation",
    "prix_max": 90,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
+    "titre": "Alimentation PC Seasonic Core GC-850 - ATX, 850W, 80+ Gold, Noir",
+    "prix": 83.99,
+    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
+    "lieu": "Grosbill",
+    "composant": "Alim 850W Gold",
+    "type": "Alimentation",
+    "vu_le": "2026-11-02T14:12:00",
+    "statut": "affaire"
+   }
   }
  ],
- "total": 1189.3,
+ "total": 1273.29,
  "manquants": [
-  "SSD NVMe 2 To",
-  "Alim 850W Gold"
+  "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
+   "titre": "Alimentation PC Seasonic Core GC-850 - ATX, 850W, 80+ Gold, Noir",
+   "prix": 83.99,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
+   "lieu": "Grosbill",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-02T14:12:00",
+   "statut": "affaire"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3300680529",
