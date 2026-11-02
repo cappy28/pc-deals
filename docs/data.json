@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02 14:12",
+ "maj": "2026-11-02 23:26",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3301082652",
+   "titre": "Rx 9070 xt Hellhound",
+   "prix": 470.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301082652",
+   "lieu": "Le Donzeil",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-02T23:26:03",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
