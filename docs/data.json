@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02 00:47",
+ "maj": "2026-11-02 05:52",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -106,6 +106,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3300680529",
+   "titre": "RX 9070 XT Steel Legend 16 Go",
+   "prix": 470.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3300680529",
+   "lieu": "Fransèches",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-02T05:52:28",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-firebat-a8-amd-ryzen-ai-9-365-32-go-ddr5-1-to-ssd-pcie40-windows-11-oculink-3443778",
