@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-03 04:38",
- "nouvelles": 0,
+ "maj": "2026-11-03 12:41",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3301416515",
+   "titre": "Rx9070xt gaming oc",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301416515",
+   "lieu": "Allerey-sur-Saône",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-03T12:41:09",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3301082652",
