@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-03 12:41",
- "nouvelles": 1,
+ "maj": "2026-11-03 20:12",
+ "nouvelles": 4,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -74,14 +74,14 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3298577580",
-    "titre": "Sapphire Pulse AMD Radeon RX 9070 XT",
-    "prix": 450.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3298577580",
-    "lieu": "Bonnefond",
+    "ext_id": "3301531387",
+    "titre": "RX 9070 XT Steel Legend 16Go",
+    "prix": 420.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301531387",
+    "lieu": "Soursac",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-10-31T20:28:31",
+    "vu_le": "2026-11-03T20:12:26",
     "statut": "affaire"
    }
   },
@@ -111,11 +111,59 @@
    }
   }
  ],
- "total": 1273.29,
+ "total": 1243.29,
  "manquants": [
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/crucial-pro-ram-ddr5-32go-kit-2x16go-6000mhz-cl36-overclocking-gaming-intel-xmp-30-amd-expo-pc-memoire-noir-cp2k16g60c36u5b-3445489",
+   "titre": "Mémoire RAM Crucial Pro RAM DDR5 32 Go Kit (2x16Go) 6000MHz CL36, Overclocking Gaming, Intel XMP 3.0 / AMD Expo, PC Mémoire, Noir",
+   "prix": 499.99,
+   "url": "https://www.dealabs.com/bons-plans/crucial-pro-ram-ddr5-32go-kit-2x16go-6000mhz-cl36-overclocking-gaming-intel-xmp-30-amd-expo-pc-memoire-noir-cp2k16g60c36u5b-3445489",
+   "lieu": "Amazon",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-03T20:12:26",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/tablette-tactile-xiaomi-redmi-pad-2-97-4-go-128-go-ecran-97-2k-120-hz-batterie-7600-mah-3445295",
+   "titre": "Tablette 9,7\" Xiaomi Redmi Pad 2 - 4 Go / 128 Go, 2K, 120 Hz, Batterie 7600 mAh (vendeur tiers)",
+   "prix": 144.99,
+   "url": "https://www.dealabs.com/bons-plans/tablette-tactile-xiaomi-redmi-pad-2-97-4-go-128-go-ecran-97-2k-120-hz-batterie-7600-mah-3445295",
+   "lieu": "Cdiscount",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-03T20:12:26",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3301809622",
+   "titre": "Radeon RX 9070 XT ASRock Steel Legend 16Gо",
+   "prix": 450.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301809622",
+   "lieu": "Rilhac-Xaintrie",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-03T20:12:26",
+   "statut": "affaire"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3301531387",
+   "titre": "RX 9070 XT Steel Legend 16Go",
+   "prix": 420.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301531387",
+   "lieu": "Soursac",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-03T20:12:26",
+   "statut": "affaire"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3301416515",
