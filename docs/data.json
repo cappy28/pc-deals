@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-04 16:12",
- "nouvelles": 1,
+ "maj": "2026-11-04 22:26",
+ "nouvelles": 3,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -56,14 +56,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
-    "titre": "Kit mémoire Ram DDR5 G.Skill Flare X5 Series Low Profile 32 Go (2x16 Go) - 6000MHz, CL36",
-    "prix": 477.0,
-    "url": "https://www.dealabs.com/bons-plans/gskill-flare-x5-series-low-profile-32go-2x16go-ram-ddr5-6000mhz-cl36-3441609",
-    "lieu": "Amazon",
+    "ext_id": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
+    "titre": "Kit mémoire Lexar Thor 2.0 - 32 Go (2x 16 Go), DDR5 6000, CL38 1.3 V (Vendeur Tiers)",
+    "prix": 342.67,
+    "url": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
+    "lieu": "Cdiscount",
     "composant": "DDR5 32 Go",
     "type": "RAM",
-    "vu_le": "2026-10-29T21:29:26",
+    "vu_le": "2026-11-04T22:26:37",
     "statut": "normal"
    }
   },
@@ -111,11 +111,47 @@
    }
   }
  ],
- "total": 1243.29,
+ "total": 1108.96,
  "manquants": [
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
+   "titre": "Kit mémoire Lexar Thor 2.0 - 32 Go (2x 16 Go), DDR5 6000, CL38 1.3 V (Vendeur Tiers)",
+   "prix": 342.67,
+   "url": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
+   "lieu": "Cdiscount",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-04T22:26:37",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3302477474",
+   "titre": "PowerColor AMD Radeon RX 9070 XT Red Devil 16 Go PCIe x16 DisplayPort HDMI",
+   "prix": 710.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3302477474",
+   "lieu": "Toulouse",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-04T22:26:37",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3302471894",
+   "titre": "RX 9070 xt",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3302471894",
+   "lieu": "Reims",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-04T22:26:37",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-xfx-swift-amd-radeon-rx-9070xt-16gb-gddr6-3446130",
