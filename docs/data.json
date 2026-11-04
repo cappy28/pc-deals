@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-04 07:53",
- "nouvelles": 0,
+ "maj": "2026-11-04 16:12",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-xfx-swift-amd-radeon-rx-9070xt-16gb-gddr6-3446130",
+   "titre": "Carte Graphique XFX Swift AMD Radeon RX 9070 XT - 16 Go GDDR6",
+   "prix": 847.92,
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-xfx-swift-amd-radeon-rx-9070xt-16gb-gddr6-3446130",
+   "lieu": "Amazon.es",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-04T16:12:24",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/crucial-pro-ram-ddr5-32go-kit-2x16go-6000mhz-cl36-overclocking-gaming-intel-xmp-30-amd-expo-pc-memoire-noir-cp2k16g60c36u5b-3445489",
