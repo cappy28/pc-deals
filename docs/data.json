@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05 02:42",
+ "maj": "2026-11-05 10:05",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
+   "titre": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh + Étui de protection (ODR de 30€ - Vendeur Darty)",
+   "prix": 159.99,
+   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
+   "lieu": "Cdiscount",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-05T10:05:38",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
