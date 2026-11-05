@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-05 10:05",
- "nouvelles": 1,
+ "maj": "2026-11-05 18:34",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3302879019",
+   "titre": "Rx 9070 xt gigabyte gaming oc ice 16go",
+   "prix": 699.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3302879019",
+   "lieu": "Saint-Sauveur-le-Vicomte",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-05T18:34:15",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3302845425",
+   "titre": "ASRock RX 9070 XT Steel Legend 16 G",
+   "prix": 649.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3302845425",
+   "lieu": "Vaudrivillers",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-05T18:34:15",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3446766",
