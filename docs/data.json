@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-04 22:26",
- "nouvelles": 3,
+ "maj": "2026-11-05 02:42",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -99,23 +99,35 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
-    "titre": "Alimentation PC Seasonic Core GC-850 - ATX, 850W, 80+ Gold, Noir",
-    "prix": 83.99,
-    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-seasonic-atx-850w-80-gold-core-gc-850-noir-3444146",
-    "lieu": "Grosbill",
+    "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
+    "titre": "Alimentation PC Cooler Master MWE Gold - 850W, V3 FM ATX3.1",
+    "prix": 79.99,
+    "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
+    "lieu": "Cdiscount",
     "composant": "Alim 850W Gold",
     "type": "Alimentation",
-    "vu_le": "2026-11-02T14:12:00",
+    "vu_le": "2026-11-05T02:42:27",
     "statut": "affaire"
    }
   }
  ],
- "total": 1108.96,
+ "total": 1104.96,
  "manquants": [
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
+   "titre": "Alimentation PC Cooler Master MWE Gold - 850W, V3 FM ATX3.1",
+   "prix": 79.99,
+   "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
+   "lieu": "Cdiscount",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-05T02:42:27",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
