@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-05 18:34",
- "nouvelles": 2,
+ "maj": "2026-11-06 04:34",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3302931576",
+   "titre": "RX 9070 XT ASRock (achetée le 13/08/2026)",
+   "prix": 770.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3302931576",
+   "lieu": "L'Huisserie",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-06T04:34:08",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3302879019",
