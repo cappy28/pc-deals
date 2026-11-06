@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-06 19:59",
+ "maj": "2026-11-07 00:43",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-aoostar-maco-sans-ssd-ryzen-ai-9-hx-470-890m-ram-32-go-lpddr5x-8000-oculink-2x-25-gbe-wifi-7-bt53-cle-w11-pro-fournie-3448060",
+   "titre": "Mini PC Aoostar Maco sans SSD - Ryzen AI 9 HX 470, 890M, RAM 32 Go LPDDR5X-8000, Oculink, 2x 2,5 GbE, Wifi 7 & BT5.3, clé W11 Pro fournie",
+   "prix": 948.26,
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-aoostar-maco-sans-ssd-ryzen-ai-9-hx-470-890m-ram-32-go-lpddr5x-8000-oculink-2x-25-gbe-wifi-7-bt53-cle-w11-pro-fournie-3448060",
+   "lieu": "Banggood",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-07T00:43:18",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3303655394",
