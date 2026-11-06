@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-06 12:52",
+ "maj": "2026-11-06 19:59",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3303655394",
+   "titre": "Sapphire pulse RX 9070 XT",
+   "prix": 739.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3303655394",
+   "lieu": "Camiers",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-06T19:59:37",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3303304880",
