@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-07 06:00",
- "nouvelles": 0,
+ "maj": "2026-11-07 12:39",
+ "nouvelles": 5,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,66 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/corsair-vengeance-rgb-ddr5-32go-2-x-16go-jusqua-6000mhz-amd-intel-ram-3448430",
+   "titre": "CORSAIR Vengeance RGB DDR5 32Go (2 x 16Go) Jusqu'à 6000MHz AMD Intel RAM",
+   "prix": 561.19,
+   "url": "https://www.dealabs.com/bons-plans/corsair-vengeance-rgb-ddr5-32go-2-x-16go-jusqua-6000mhz-amd-intel-ram-3448430",
+   "lieu": "Amazon",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-07T12:39:02",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-pny-geforce-rtx-5070-oc-12-go-gddr7-3448378",
+   "titre": "[Précommande] Carte graphique PNY GeForce RTX 5070 OC 12 Go GDDR7 (hellorse.fr)",
+   "prix": 629.88,
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-pny-geforce-rtx-5070-oc-12-go-gddr7-3448378",
+   "lieu": "Neuf (promo)",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-07T12:39:02",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k16-ryzen-7-7735hs-radeon-680m-32-go-lpddr5-6400-ssd-nvme-de-1-to-oculink-2x25-gbe-wifi-6e-bt52-win-11-pro-3448177",
+   "titre": "Mini PC GMKtec K16 - Ryzen 7 7735HS, Radeon 680M, 32 Go LPDDR5-6400, SSD Nvme de 1 To, OCULINK, 2x2,5 GbE, Wifi 6E & BT5.2, Win 11 Pro",
+   "prix": 599.99,
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k16-ryzen-7-7735hs-radeon-680m-32-go-lpddr5-6400-ssd-nvme-de-1-to-oculink-2x25-gbe-wifi-6e-bt52-win-11-pro-3448177",
+   "lieu": "GMKtec",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-07T12:39:02",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k15-core-ultra-5-125u-intel-xe-lpg-nvme-1-to-32-go-ddr5-4800-oculink-usb4-2-x-25-gbe-wifi6e-bt52-win-11-pro-3448174",
+   "titre": "Mini PC GMKtec K15 - Core Ultra 5 125U, Intel Xe-LPG, Nvme 1 To, 32 Go DDR5-4800, Oculink, USB4, 2 x 2,5 GbE, Wifi6E & BT5.2, Win 11 Pro",
+   "prix": 639.99,
+   "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k15-core-ultra-5-125u-intel-xe-lpg-nvme-1-to-32-go-ddr5-4800-oculink-usb4-2-x-25-gbe-wifi6e-bt52-win-11-pro-3448174",
+   "lieu": "GMKtec",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-07T12:39:02",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3304059877",
+   "titre": "Gigabyte rx 9070 xt",
+   "prix": 490.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3304059877",
+   "lieu": "Ahun",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-07T12:39:02",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/mini-pc-aoostar-maco-sans-ssd-ryzen-ai-9-hx-470-890m-ram-32-go-lpddr5x-8000-oculink-2x-25-gbe-wifi-7-bt53-cle-w11-pro-fournie-3448060",
