@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-07 22:31",
- "nouvelles": 1,
+ "maj": "2026-11-08 02:09",
+ "nouvelles": 0,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -99,14 +99,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
-    "titre": "Alimentation PC Cooler Master MWE Gold - 850W, V3 FM ATX3.1",
+    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-mwe-gold-850w-v3-atx-31-garantie-10-ans-6999-pour-les-nouveaux-clients-code-hello10-3448672",
+    "titre": "Alimentation PC Cooler Master MWE Gold 850W V3 ATX 3.1 Garantie 10 ans (69.99€ pour les Nouveaux Clients via HELLO10)",
     "prix": 79.99,
-    "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3446544",
+    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-mwe-gold-850w-v3-atx-31-garantie-10-ans-6999-pour-les-nouveaux-clients-code-hello10-3448672",
     "lieu": "Cdiscount",
     "composant": "Alim 850W Gold",
     "type": "Alimentation",
-    "vu_le": "2026-11-05T02:42:27",
+    "vu_le": "2026-11-07T22:31:58",
     "statut": "affaire"
    }
   }
