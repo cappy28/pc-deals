@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-08 08:46",
- "nouvelles": 0,
+ "maj": "2026-11-08 15:49",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -116,6 +116,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
+   "titre": "Processeur AMD 9800X3D",
+   "prix": 389.0,
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
+   "lieu": "Amazon",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-08T15:49:51",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-cooler-master-mwe-gold-850w-v3-atx-31-garantie-10-ans-6999-pour-les-nouveaux-clients-code-hello10-3448672",
