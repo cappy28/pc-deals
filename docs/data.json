@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-08 15:49",
- "nouvelles": 1,
+ "maj": "2026-11-08 20:22",
+ "nouvelles": 0,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -18,36 +18,14 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
-    "titre": "Processeur AMD Ryzen 7 7800X3D - AM5, 8C/16T, 96 Mo de 3D V-Cache (Via Paiement PayPal)",
-    "prix": 180.24,
-    "url": "https://www.dealabs.com/bons-plans/cpu-amd-am5-7800x3d-40eur-code-promo-20eur-paypal-3443197",
-    "lieu": "AliExpress",
-    "composant": "Ryzen 7 7800X3D",
-    "type": "CPU",
-    "vu_le": "2026-11-01T16:51:27",
-    "statut": "affaire"
-   }
+   "meilleure": null
   },
   {
    "nom": "Carte mère B650",
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
-    "titre": "Carte Mère Soyo Eternel B650ITX - WiFi 6, DDR5, socket AM5, compatible Ryzen 9600X 9800X",
-    "prix": 82.06,
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-eternel-b650itx-wifi-6-ddr5-socket-am5-compatible-ryzen-9600x-9800x-3443494",
-    "lieu": "AliExpress",
-    "composant": "Carte mère B650",
-    "type": "Carte mère",
-    "vu_le": "2026-11-01T16:51:27",
-    "statut": "affaire"
-   }
+   "meilleure": null
   },
   {
    "nom": "DDR5 32 Go",
@@ -111,8 +89,10 @@
    }
   }
  ],
- "total": 1104.96,
+ "total": 842.6600000000001,
  "manquants": [
+  "Ryzen 7 7800X3D",
+  "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
