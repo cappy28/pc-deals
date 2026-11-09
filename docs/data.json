@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-09 00:00",
- "nouvelles": 0,
+ "maj": "2026-11-09 03:53",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
+   "titre": "Kit de RAM Forgeon Cyclone PRO RGB - 32Go (2x16Go), DDR5, 6000MHz, CL36 Intel XMP AMD EXPO Noir",
+   "prix": 389.99,
+   "url": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
+   "lieu": "PcComponentes",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-09T03:53:45",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3448873",
