@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-09 11:59",
- "nouvelles": 2,
+ "maj": "2026-11-09 22:24",
+ "nouvelles": 3,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -18,7 +18,18 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
+    "titre": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs, 16 threads, 104Mo cache, AM5, 3D V-Cache, sans ventirad",
+    "prix": 299.0,
+    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
+    "lieu": "Amazon",
+    "composant": "Ryzen 7 7800X3D",
+    "type": "CPU",
+    "vu_le": "2026-11-09T22:24:17",
+    "statut": "normal"
+   }
   },
   {
    "nom": "Carte mère B650",
@@ -89,13 +100,48 @@
    }
   }
  ],
- "total": 842.6600000000001,
+ "total": 1141.66,
  "manquants": [
-  "Ryzen 7 7800X3D",
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/be-quiet-pure-power-13-m-850w-alimentation-modulaire-80-gold-atx-31-3450164",
+   "titre": "Alimentation modulaire 80+ Gold ATX 3.1 be quiet! Pure Power 13 M 850W",
+   "prix": 104.99,
+   "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-power-13-m-850w-alimentation-modulaire-80-gold-atx-31-3450164",
+   "lieu": "Darty",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-09T22:24:17",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
+   "titre": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs, 16 threads, 104Mo cache, AM5, 3D V-Cache, sans ventirad",
+   "prix": 299.0,
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
+   "lieu": "Amazon",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-09T22:24:17",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
+   "titre": "Kit Mémoire V-Color Manta XSky RGB DDR5-6000 RAM, CL30, EXPO - 32 Go Dual Kit, black",
+   "prix": 504.1,
+   "url": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
+   "lieu": "Caseking",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-09T22:24:17",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3302839592",
