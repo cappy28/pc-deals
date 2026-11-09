@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-09 03:53",
- "nouvelles": 1,
+ "maj": "2026-11-09 11:59",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3302839592",
+   "titre": "Carte graphique ASUS TUF Gaming Radeon RX 9070 XT OC Edition 16GB neuve",
+   "prix": 630.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3302839592",
+   "lieu": "Festieux",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-09T11:59:43",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3305395178",
+   "titre": "Gigabyte Radeon RX 9070 XT Gaming OC 16G - 16 Go - Boîte",
+   "prix": 435.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3305395178",
+   "lieu": "Ahun",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-09T11:59:43",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
