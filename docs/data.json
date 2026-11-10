@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10 13:15",
+ "maj": "2026-11-10 20:55",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -63,14 +63,14 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3301531387",
-    "titre": "RX 9070 XT Steel Legend 16Go",
-    "prix": 420.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3301531387",
-    "lieu": "Soursac",
+    "ext_id": "3305395178",
+    "titre": "Gigabyte Radeon RX 9070 XT Gaming OC 16G - 16 Go - Boîte",
+    "prix": 435.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3305395178",
+    "lieu": "Ahun",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-03T20:12:26",
+    "vu_le": "2026-11-09T11:59:43",
     "statut": "affaire"
    }
   },
@@ -100,12 +100,24 @@
    }
   }
  ],
- "total": 1141.66,
+ "total": 1156.66,
  "manquants": [
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3451088",
+   "titre": "[Via Paypal] Processeur AMD Ryzen 7 9800X3D - 8 cœurs, 5,2 GHz, 96 Mo L3, TDP 120 W, AM5",
+   "prix": 266.36,
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3451088",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-10T20:55:27",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/asus-prime-radeon-rx-9070-xt-16gb-gddr6-oc-3450920",
