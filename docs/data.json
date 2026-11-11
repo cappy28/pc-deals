@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11 07:59",
+ "maj": "2026-11-11 16:04",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -106,6 +106,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-tray-via-offre-paypal-later-3452283",
+   "titre": "Processeur Ryzen 7 9800X3D (via paiment Paypal)",
+   "prix": 269.34,
+   "url": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-tray-via-offre-paypal-later-3452283",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-11T16:04:01",
+   "statut": "affaire"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3306677782",
