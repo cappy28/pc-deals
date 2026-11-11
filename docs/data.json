@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-10 20:55",
- "nouvelles": 1,
+ "maj": "2026-11-11 01:27",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -20,15 +20,15 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
-    "titre": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs, 16 threads, 104Mo cache, AM5, 3D V-Cache, sans ventirad",
-    "prix": 299.0,
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-104mo-cache-am5-3d-v-cache-sans-ventirad-3450040",
-    "lieu": "Amazon",
+    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
+    "titre": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
+    "prix": 180.33,
+    "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
+    "lieu": "AliExpress",
     "composant": "Ryzen 7 7800X3D",
     "type": "CPU",
-    "vu_le": "2026-11-09T22:24:17",
-    "statut": "normal"
+    "vu_le": "2026-11-11T01:27:53",
+    "statut": "affaire"
    }
   },
   {
@@ -100,12 +100,36 @@
    }
   }
  ],
- "total": 1156.66,
+ "total": 1037.99,
  "manquants": [
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
+   "titre": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
+   "prix": 180.33,
+   "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-11T01:27:53",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-box-am5-8c16t-96-mo-3d-v-cache-3451630",
+   "titre": "Processeur AMD Ryzen 7 7800X3D (Box, AM5, 8C/16T, 96 Mo 3D V-Cache)",
+   "prix": 319.99,
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-box-am5-8c16t-96-mo-3d-v-cache-3451630",
+   "lieu": "Grosbill",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-11T01:27:53",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3451088",
