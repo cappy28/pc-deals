@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-11 01:27",
- "nouvelles": 2,
+ "maj": "2026-11-11 07:59",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -63,14 +63,14 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3305395178",
-    "titre": "Gigabyte Radeon RX 9070 XT Gaming OC 16G - 16 Go - Boîte",
-    "prix": 435.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3305395178",
-    "lieu": "Ahun",
+    "ext_id": "3306677782",
+    "titre": "SAPPHIRE Nitro+ Radeon RX 9070 XT 16 Go – Excellent état",
+    "prix": 415.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3306677782",
+    "lieu": "Lavaur",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-09T11:59:43",
+    "vu_le": "2026-11-11T07:59:22",
     "statut": "affaire"
    }
   },
@@ -100,12 +100,24 @@
    }
   }
  ],
- "total": 1037.99,
+ "total": 1017.99,
  "manquants": [
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3306677782",
+   "titre": "SAPPHIRE Nitro+ Radeon RX 9070 XT 16 Go – Excellent état",
+   "prix": 415.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3306677782",
+   "lieu": "Lavaur",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-11T07:59:22",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
