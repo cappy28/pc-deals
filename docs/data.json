@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11 23:08",
+ "maj": "2026-11-12 04:16",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -106,6 +106,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-geforce-rtx-5070-12go-pny-triple-fan-3452674",
+   "titre": "Carte Graphique GeForce RTX 5070 12Go PNY Triple Fan",
+   "prix": 661.99,
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-geforce-rtx-5070-12go-pny-triple-fan-3452674",
+   "lieu": "Amazon",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-12T04:16:06",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3307312438",
