@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-15 15:40",
- "nouvelles": 0,
+ "maj": "2026-11-15 21:12",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -106,6 +106,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/adherents-fnac-pc-fixe-aorus-ryzen-7-9700x-rtx-5070-32-go-ram-ddr5-5600-ssd-1-to-wifi-7-windows-11-3456409",
+   "titre": "[Adhérents Fnac+] PC Fixe Aorus - Ryzen 7 9700X, RTX 5070, 32 Go RAM DDR5 5600, SSD 1 To, Wifi 7, Windows 11",
+   "prix": 1800.37,
+   "url": "https://www.dealabs.com/bons-plans/adherents-fnac-pc-fixe-aorus-ryzen-7-9700x-rtx-5070-32-go-ram-ddr5-5600-ssd-1-to-wifi-7-windows-11-3456409",
+   "lieu": "Fnac",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-15T21:12:17",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/amd-ryzen-7-9800x3d-47-ghz-52-ghz-turbo-boost-socket-am5-processeur-3456222",
+   "titre": "Processeur AMD Ryzen 7 9800X3D - 4,7 GHz (5,2 GHz Turbo Boost) socket AM5",
+   "prix": 359.0,
+   "url": "https://www.dealabs.com/bons-plans/amd-ryzen-7-9800x3d-47-ghz-52-ghz-turbo-boost-socket-am5-processeur-3456222",
+   "lieu": "Alternate",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-15T21:12:17",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-3454670",
