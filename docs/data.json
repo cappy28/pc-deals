@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-16 01:11",
- "nouvelles": 1,
+ "maj": "2026-11-16 08:05",
+ "nouvelles": 0,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -45,14 +45,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
-    "titre": "Kit de RAM Forgeon Cyclone PRO RGB - 32Go (2x16Go), DDR5, 6000MHz, CL36 Intel XMP AMD EXPO Noir",
-    "prix": 389.99,
-    "url": "https://www.dealabs.com/bons-plans/memoire-ram-forgeon-cyclone-pro-rgb-32go-2x16go-ddr5-6000mhz-cl36-intel-xmp-amd-expo-noir-3449400",
-    "lieu": "PcComponentes",
+    "ext_id": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
+    "titre": "Kit Mémoire V-Color Manta XSky RGB DDR5-6000 RAM, CL30, EXPO - 32 Go Dual Kit, black",
+    "prix": 504.1,
+    "url": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
+    "lieu": "Caseking",
     "composant": "DDR5 32 Go",
     "type": "RAM",
-    "vu_le": "2026-11-09T03:53:45",
+    "vu_le": "2026-11-09T22:24:17",
     "statut": "normal"
    }
   },
@@ -100,7 +100,7 @@
    }
   }
  ],
- "total": 1090.31,
+ "total": 1204.42,
  "manquants": [
   "Carte mère B650",
   "SSD NVMe 2 To"
