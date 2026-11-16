@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-16 08:05",
- "nouvelles": 0,
+ "maj": "2026-11-16 18:18",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -36,7 +36,18 @@
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
+    "titre": "Carte mère ASUS TUF Gaming B650E-PLUS",
+    "prix": 162.99,
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
+    "lieu": "Amazon",
+    "composant": "Carte mère B650",
+    "type": "Carte mère",
+    "vu_le": "2026-11-16T18:18:40",
+    "statut": "normal"
+   }
   },
   {
    "nom": "DDR5 32 Go",
@@ -100,12 +111,35 @@
    }
   }
  ],
- "total": 1204.42,
+ "total": 1367.41,
  "manquants": [
-  "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/colorful-cvn-b650m-gaming-frozen-v14-carte-mere-format-m-atx-wifi6-ddr5-pcb-blanc-4dimm-ddr5-7600-mhz-oc-3457899",
+   "titre": "Carte mère Colorful CVN B650M Gaming Frozen V14, Format M-ATX, WiFi6, DDR5, PCB blanc, 4*DIMM DDR5 7600 MHz (OC)",
+   "prix": 107.98,
+   "url": "https://www.dealabs.com/bons-plans/colorful-cvn-b650m-gaming-frozen-v14-carte-mere-format-m-atx-wifi6-ddr5-pcb-blanc-4dimm-ddr5-7600-mhz-oc-3457899",
+   "lieu": "JoyBuy",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-16T18:18:40",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
+   "titre": "Carte mère ASUS TUF Gaming B650E-PLUS",
+   "prix": 162.99,
+   "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
+   "lieu": "Amazon",
+   "composant": "Carte mère B650",
+   "type": "Carte mère",
+   "vu_le": "2026-11-16T18:18:40",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-7800x3d-cpu-amazon-3456633",
