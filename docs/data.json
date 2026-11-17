@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-16 18:18",
- "nouvelles": 2,
+ "maj": "2026-11-17 01:58",
+ "nouvelles": 0,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -54,18 +54,7 @@
    "type": "RAM",
    "prix_max": 110,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
-    "titre": "Kit Mémoire V-Color Manta XSky RGB DDR5-6000 RAM, CL30, EXPO - 32 Go Dual Kit, black",
-    "prix": 504.1,
-    "url": "https://www.dealabs.com/bons-plans/v-color-manta-xsky-rgb-ddr5-6000-ram-cl30-expo-32-gb-dual-kit-black-3450027",
-    "lieu": "Caseking",
-    "composant": "DDR5 32 Go",
-    "type": "RAM",
-    "vu_le": "2026-11-09T22:24:17",
-    "statut": "normal"
-   }
+   "meilleure": null
   },
   {
    "nom": "RX 9070 XT",
@@ -97,23 +86,14 @@
    "type": "Alimentation",
    "prix_max": 90,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/be-quiet-pure-power-13-m-850w-alimentation-modulaire-80-gold-atx-31-3450164",
-    "titre": "Alimentation modulaire 80+ Gold ATX 3.1 be quiet! Pure Power 13 M 850W",
-    "prix": 104.99,
-    "url": "https://www.dealabs.com/bons-plans/be-quiet-pure-power-13-m-850w-alimentation-modulaire-80-gold-atx-31-3450164",
-    "lieu": "Darty",
-    "composant": "Alim 850W Gold",
-    "type": "Alimentation",
-    "vu_le": "2026-11-09T22:24:17",
-    "statut": "normal"
-   }
+   "meilleure": null
   }
  ],
- "total": 1367.41,
+ "total": 758.32,
  "manquants": [
-  "SSD NVMe 2 To"
+  "DDR5 32 Go",
+  "SSD NVMe 2 To",
+  "Alim 850W Gold"
  ],
  "offres": [
   {
