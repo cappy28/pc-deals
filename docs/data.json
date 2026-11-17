@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-17 10:00",
- "nouvelles": 1,
+ "maj": "2026-11-17 19:27",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,30 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/intel-pro-7600p-256-go-ssd-nvme-m2-pcie-30-avec-lecture-jusqua-3-230-mos-reconditionne-3459304",
+   "titre": "Reconditionné : SSD Interne NVMe Intel Pro 7600p - 256 Go, M.2 PCIe 3.0 avec lecture jusqu'à 3 230 Mo/s",
+   "prix": 31.2,
+   "url": "https://www.dealabs.com/bons-plans/intel-pro-7600p-256-go-ssd-nvme-m2-pcie-30-avec-lecture-jusqua-3-230-mos-reconditionne-3459304",
+   "lieu": "AfBShop.fr",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-17T19:27:38",
+   "statut": "suspect"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3459110",
+   "titre": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh + Étui de protection (ODR de 30€ - Vendeur Darty)",
+   "prix": 159.99,
+   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-etui-de-protection-odr-de-30eur-vendeur-darty-3459110",
+   "lieu": "Cdiscount",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-17T19:27:38",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3311089867",
