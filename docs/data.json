@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-17 19:27",
- "nouvelles": 2,
+ "maj": "2026-11-18 02:12",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -20,15 +20,15 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
-    "titre": "Processeur AMD Ryzen 7 7800X3D - Tray (via Paypal)",
-    "prix": 180.33,
-    "url": "https://www.dealabs.com/bons-plans/via-paypal-tray-processeur-amd-ryzen-7-7800x3d-3451656",
-    "lieu": "AliExpress",
+    "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-7800x3d-cpu-amazon-3456633",
+    "titre": "Processeur AMD Ryzen 7 7800X3D",
+    "prix": 283.99,
+    "url": "https://www.dealabs.com/bons-plans/ryzen-7-7800x3d-cpu-amazon-3456633",
+    "lieu": "Amazon",
     "composant": "Ryzen 7 7800X3D",
     "type": "CPU",
-    "vu_le": "2026-11-11T01:27:53",
-    "statut": "affaire"
+    "vu_le": "2026-11-16T01:11:56",
+    "statut": "normal"
    }
   },
   {
@@ -89,13 +89,25 @@
    "meilleure": null
   }
  ],
- "total": 758.32,
+ "total": 861.98,
  "manquants": [
   "DDR5 32 Go",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/zotac-gaming-geforce-rtx-5070-3459411",
+   "titre": "Carte Graphique Zotac GeForce RTX 5070",
+   "prix": 879.99,
+   "url": "https://www.dealabs.com/bons-plans/zotac-gaming-geforce-rtx-5070-3459411",
+   "lieu": "JoyBuy",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-18T02:12:41",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/intel-pro-7600p-256-go-ssd-nvme-m2-pcie-30-avec-lecture-jusqua-3-230-mos-reconditionne-3459304",
