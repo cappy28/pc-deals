@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-18 18:52",
- "nouvelles": 2,
+ "maj": "2026-11-19 00:58",
+ "nouvelles": 0,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -63,15 +63,15 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3307312438",
-    "titre": "SAPPHIRE Nitro+ Radeon RX 9070 XT 16 Go – Excellent état",
-    "prix": 435.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3307312438",
-    "lieu": "Le Donzeil",
+    "ext_id": "3308171033",
+    "titre": "Carte graphique AMD RX 9070 XT",
+    "prix": 730.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3308171033",
+    "lieu": "Vulbens",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-11T23:08:18",
-    "statut": "affaire"
+    "vu_le": "2026-11-13T01:55:54",
+    "statut": "normal"
    }
   },
   {
@@ -89,7 +89,7 @@
    "meilleure": null
   }
  ],
- "total": 881.98,
+ "total": 1176.98,
  "manquants": [
   "DDR5 32 Go",
   "SSD NVMe 2 To",
