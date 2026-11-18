@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-18 02:12",
+ "maj": "2026-11-18 09:55",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -63,14 +63,14 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3306677782",
+    "ext_id": "3307312438",
     "titre": "SAPPHIRE Nitro+ Radeon RX 9070 XT 16 Go – Excellent état",
-    "prix": 415.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3306677782",
-    "lieu": "Lavaur",
+    "prix": 435.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3307312438",
+    "lieu": "Le Donzeil",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-11T07:59:22",
+    "vu_le": "2026-11-11T23:08:18",
     "statut": "affaire"
    }
   },
@@ -89,13 +89,25 @@
    "meilleure": null
   }
  ],
- "total": 861.98,
+ "total": 881.98,
  "manquants": [
   "DDR5 32 Go",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-gris-etui-de-protection-via-odr-de-30eur-3459944",
+   "titre": "Tablette 9.7\" Xiaomi Redmi Pad 2 - 2K 120Hz, Snapdragon 6s Gen2, RAM 4 Go, 64 Go, 7600mAh (Gris) + Étui de protection (Via ODR de 30€)",
+   "prix": 140.14,
+   "url": "https://www.dealabs.com/bons-plans/tablette-97-xiaomi-redmi-pad-2-2k-120hz-snapdragon-6s-gen2-ram-4-go-64-go-7600mah-gris-etui-de-protection-via-odr-de-30eur-3459944",
+   "lieu": "Darty",
+   "composant": "Ryzen 5 7600",
+   "type": "CPU",
+   "vu_le": "2026-11-18T09:55:53",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/zotac-gaming-geforce-rtx-5070-3459411",
