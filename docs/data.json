@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-19 17:43",
- "nouvelles": 0,
+ "maj": "2026-11-20 00:26",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3312946770",
+   "titre": "XFX RX 9070 XT White Magnetic Air 16 Go",
+   "prix": 730.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3312946770",
+   "lieu": "Saint-Denis",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-20T00:26:04",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-nitro-amd-radeon-rx-9070-xt-gaming-oc-16gb-3460397",
