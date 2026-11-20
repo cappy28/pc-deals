@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-20 14:27",
- "nouvelles": 0,
+ "maj": "2026-11-20 22:28",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -63,14 +63,14 @@
    "mediane": 700.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3312946770",
-    "titre": "XFX RX 9070 XT White Magnetic Air 16 Go",
-    "prix": 730.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3312946770",
-    "lieu": "Saint-Denis",
+    "ext_id": "3313443710",
+    "titre": "Rx 9070 xt 16g rdna 4",
+    "prix": 650.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3313443710",
+    "lieu": "Sainte-Rose",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-20T00:26:04",
+    "vu_le": "2026-11-20T22:28:07",
     "statut": "normal"
    }
   },
@@ -89,13 +89,25 @@
    "meilleure": null
   }
  ],
- "total": 1176.98,
+ "total": 1096.98,
  "manquants": [
   "DDR5 32 Go",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3313443710",
+   "titre": "Rx 9070 xt 16g rdna 4",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3313443710",
+   "lieu": "Sainte-Rose",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-20T22:28:07",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3312946770",
