@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-20 22:28",
- "nouvelles": 1,
+ "maj": "2026-11-21 03:44",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -54,7 +54,18 @@
    "type": "RAM",
    "prix_max": 110,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
+    "titre": "Kit mémoire Ram DDR5 Patriot 32 Go (2x16 Go) - 6000 CL30",
+    "prix": 519.0,
+    "url": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
+    "lieu": "Alternate",
+    "composant": "DDR5 32 Go",
+    "type": "RAM",
+    "vu_le": "2026-11-21T03:44:15",
+    "statut": "normal"
+   }
   },
   {
    "nom": "RX 9070 XT",
@@ -89,13 +100,36 @@
    "meilleure": null
   }
  ],
- "total": 1096.98,
+ "total": 1615.98,
  "manquants": [
-  "DDR5 32 Go",
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
+   "titre": "Kit mémoire Ram DDR5 Patriot 32 Go (2x16 Go) - 6000 CL30",
+   "prix": 519.0,
+   "url": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
+   "lieu": "Alternate",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-21T03:44:15",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/besoin-davis-3463971",
+   "titre": "PC de bureau Blackpltinium - Ryzen 7 9800X3D, 32 Go Ram, 2 To, RX 9070 XT 16 Go",
+   "prix": 2599.99,
+   "url": "https://www.dealabs.com/bons-plans/besoin-davis-3463971",
+   "lieu": "Cybertek",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-21T03:44:15",
+   "statut": "normal"
+  },
   {
    "source": "leboncoin",
    "ext_id": "3313443710",
