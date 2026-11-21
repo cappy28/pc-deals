@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21 11:44",
+ "maj": "2026-11-21 18:54",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -106,6 +106,18 @@
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "leboncoin",
+   "ext_id": "3314370758",
+   "titre": "Sapphire nitro+ rx 9070 xt",
+   "prix": 320.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3314370758",
+   "lieu": "Aulnay-sous-Bois",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-21T18:54:04",
+   "statut": "suspect"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
