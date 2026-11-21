@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-21 03:44",
- "nouvelles": 2,
+ "maj": "2026-11-21 11:44",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -56,14 +56,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
-    "titre": "Kit mémoire Ram DDR5 Patriot 32 Go (2x16 Go) - 6000 CL30",
-    "prix": 519.0,
-    "url": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
-    "lieu": "Alternate",
+    "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
+    "titre": "Mémoire RAM Vengeance RGB, 32Go 2x16Go, DDR5, 6000Mhz, Blanc",
+    "prix": 499.99,
+    "url": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
+    "lieu": "Grosbill",
     "composant": "DDR5 32 Go",
     "type": "RAM",
-    "vu_le": "2026-11-21T03:44:15",
+    "vu_le": "2026-11-21T11:44:07",
     "statut": "normal"
    }
   },
@@ -100,12 +100,24 @@
    "meilleure": null
   }
  ],
- "total": 1615.98,
+ "total": 1596.97,
  "manquants": [
   "SSD NVMe 2 To",
   "Alim 850W Gold"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
+   "titre": "Mémoire RAM Vengeance RGB, 32Go 2x16Go, DDR5, 6000Mhz, Blanc",
+   "prix": 499.99,
+   "url": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
+   "lieu": "Grosbill",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-21T11:44:07",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/patriot-32-go-ddr5-6000-cl30-2x16-go-3464007",
