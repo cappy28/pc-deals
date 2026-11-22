@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-22 11:49",
- "nouvelles": 0,
+ "maj": "2026-11-22 19:17",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -97,15 +97,37 @@
    "type": "Alimentation",
    "prix_max": 90,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-xpg-pymcore-sfx-850w-cybenetics-platinum-80-gold-atx-31-3465387",
+    "titre": "Alimentation PC modulaire XPG Pymcore SFX 850W Cybenetics Platinum, 80+ Gold, ATX 3.1",
+    "prix": 84.0,
+    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-xpg-pymcore-sfx-850w-cybenetics-platinum-80-gold-atx-31-3465387",
+    "lieu": "JoyBuy",
+    "composant": "Alim 850W Gold",
+    "type": "Alimentation",
+    "vu_le": "2026-11-22T19:17:06",
+    "statut": "affaire"
+   }
   }
  ],
- "total": 1596.97,
+ "total": 1680.97,
  "manquants": [
-  "SSD NVMe 2 To",
-  "Alim 850W Gold"
+  "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-xpg-pymcore-sfx-850w-cybenetics-platinum-80-gold-atx-31-3465387",
+   "titre": "Alimentation PC modulaire XPG Pymcore SFX 850W Cybenetics Platinum, 80+ Gold, ATX 3.1",
+   "prix": 84.0,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-xpg-pymcore-sfx-850w-cybenetics-platinum-80-gold-atx-31-3465387",
+   "lieu": "JoyBuy",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-22T19:17:06",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/pccom-imperial-amd-ryzen-7-5700x-32-go-ssd-1-to-rtx-5070-windows-11-home-3464703",
