@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23 00:44",
+ "maj": "2026-11-23 07:14",
  "nouvelles": 0,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -18,18 +18,7 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-7800x3d-cpu-amazon-3456633",
-    "titre": "Processeur AMD Ryzen 7 7800X3D",
-    "prix": 283.99,
-    "url": "https://www.dealabs.com/bons-plans/ryzen-7-7800x3d-cpu-amazon-3456633",
-    "lieu": "Amazon",
-    "composant": "Ryzen 7 7800X3D",
-    "type": "CPU",
-    "vu_le": "2026-11-16T01:11:56",
-    "statut": "normal"
-   }
+   "meilleure": null
   },
   {
    "nom": "Carte mère B650",
@@ -111,8 +100,9 @@
    }
   }
  ],
- "total": 1680.97,
+ "total": 1396.98,
  "manquants": [
+  "Ryzen 7 7800X3D",
   "SSD NVMe 2 To"
  ],
  "offres": [
