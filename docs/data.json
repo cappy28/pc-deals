@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-23 07:14",
- "nouvelles": 0,
+ "maj": "2026-11-23 19:38",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -25,18 +25,7 @@
    "type": "Carte mère",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": {
-    "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
-    "titre": "Carte mère ASUS TUF Gaming B650E-PLUS",
-    "prix": 162.99,
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-asus-tuf-gaming-b650e-plus-3457844",
-    "lieu": "Amazon",
-    "composant": "Carte mère B650",
-    "type": "Carte mère",
-    "vu_le": "2026-11-16T18:18:40",
-    "statut": "normal"
-   }
+   "meilleure": null
   },
   {
    "nom": "DDR5 32 Go",
@@ -100,12 +89,25 @@
    }
   }
  ],
- "total": 1396.98,
+ "total": 1233.99,
  "manquants": [
   "Ryzen 7 7800X3D",
+  "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
+   "titre": "PC Portbale 16\" Acer Aspire Go 16 AG16-71P - i9-13900H, 32 Go DDR5, 1 To SSD, Windows 11",
+   "prix": 1066.99,
+   "url": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
+   "lieu": "Acer",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-23T19:38:26",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-modulaire-xpg-pymcore-sfx-850w-cybenetics-platinum-80-gold-atx-31-3465387",
@@ -1196,30 +1198,6 @@
    "composant": "RX 9070 XT",
    "type": "GPU",
    "vu_le": "2026-10-24T21:17:29",
-   "statut": "normal"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
-   "titre": "Carte mère Colorful Battle-AX B650M-White WiFi V15 - AM5, Micro-ATX, PCIe 5.0 x16, WiFi 6, Blanc",
-   "prix": 85.49,
-   "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b650m-white-wifi-v15-am5-micro-atx-pcie-50-x16-wifi-6-blanc-3437983",
-   "lieu": "JoyBuy",
-   "composant": "Carte mère B650",
-   "type": "Carte mère",
-   "vu_le": "2026-10-24T18:52:56",
-   "statut": "affaire"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7500x3d-rx-9070-xt-1to-16go-ddr5-asus-rog-b650e-i-850w-gold-3437933",
-   "titre": "PC de bureau, Ryzen 7500X3D, RX 9070 XT, 1To Gen4, 16Go DDR5, Asus ROG B650E-I, 850W Gold, Master Sneaker, Watercooling 360",
-   "prix": 1799.0,
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7500x3d-rx-9070-xt-1to-16go-ddr5-asus-rog-b650e-i-850w-gold-3437933",
-   "lieu": "EZ-store",
-   "composant": "RX 9070 XT",
-   "type": "GPU",
-   "vu_le": "2026-10-24T15:29:30",
    "statut": "normal"
   }
  ]
