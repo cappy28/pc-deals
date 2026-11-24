@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-24 05:12",
- "nouvelles": 0,
+ "maj": "2026-11-24 16:08",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,30 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467707",
+   "titre": "Carte graphique Sapphire Pulse Radeon RX 9070 XT GAMING 16GB",
+   "prix": 863.99,
+   "url": "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467707",
+   "lieu": "Amazon",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-24T16:08:45",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467670",
+   "titre": "Carte graphique Sapphire Pulse Radeon RX 9070 XT GAMING 16GB",
+   "prix": 863.99,
+   "url": "https://www.dealabs.com/bons-plans/sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467670",
+   "lieu": "Grosbill",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-24T16:08:45",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/acer-aspire-go-16-ordinateur-portable-ag16-71p-intel-i9-13900h-260-ghz-32-go-ddr5-1-to-ssd-3466560",
@@ -1151,18 +1175,6 @@
    "type": "RAM",
    "vu_le": "2026-10-25T18:48:03",
    "statut": "normal"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-3438534",
-   "titre": "Processeur Ryzen 7 9800X3D",
-   "prix": 336.81,
-   "url": "https://www.dealabs.com/bons-plans/ryzen-7-9800x3d-3438534",
-   "lieu": "AliExpress",
-   "composant": "Ryzen 7 9800X3D",
-   "type": "CPU",
-   "vu_le": "2026-10-25T15:29:44",
-   "statut": "affaire"
   }
  ]
 }
