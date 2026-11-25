@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-25 01:00",
- "nouvelles": 0,
+ "maj": "2026-11-25 09:59",
+ "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -96,6 +96,18 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-corsair-rmx-series-rm850x-2024-850w-80-gold-modulaire-noir-3468553",
+   "titre": "Alimentation PC Corsair RMx Series RM850x (2024) - 850W, 80+ Gold, Modulaire, ATX 3.1 (Noir)",
+   "prix": 99.99,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-corsair-rmx-series-rm850x-2024-850w-80-gold-modulaire-noir-3468553",
+   "lieu": "Darty",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-25T09:59:03",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467707",
