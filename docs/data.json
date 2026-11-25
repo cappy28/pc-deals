@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25 09:59",
+ "maj": "2026-11-25 20:07",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -34,14 +34,14 @@
    "mediane": null,
    "meilleure": {
     "source": "dealabs",
-    "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
-    "titre": "Mémoire RAM Vengeance RGB, 32Go 2x16Go, DDR5, 6000Mhz, Blanc",
-    "prix": 499.99,
-    "url": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-3464024",
-    "lieu": "Grosbill",
+    "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-cl36-3469253",
+    "titre": "Mémoire RAM Vengeance RGB - 32Go, 2x16Go, DDR5, 6000Mhz, Blanc, CL36",
+    "prix": 459.99,
+    "url": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-cl36-3469253",
+    "lieu": "Cybertek",
     "composant": "DDR5 32 Go",
     "type": "RAM",
-    "vu_le": "2026-11-21T11:44:07",
+    "vu_le": "2026-11-25T20:07:39",
     "statut": "normal"
    }
   },
@@ -49,7 +49,7 @@
    "nom": "RX 9070 XT",
    "type": "GPU",
    "prix_max": 550,
-   "mediane": 674.5,
+   "mediane": 699.0,
    "meilleure": {
     "source": "leboncoin",
     "ext_id": "3313443710",
@@ -89,13 +89,25 @@
    }
   }
  ],
- "total": 1233.99,
+ "total": 1193.99,
  "manquants": [
   "Ryzen 7 7800X3D",
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-cl36-3469253",
+   "titre": "Mémoire RAM Vengeance RGB - 32Go, 2x16Go, DDR5, 6000Mhz, Blanc, CL36",
+   "prix": 459.99,
+   "url": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-cl36-3469253",
+   "lieu": "Cybertek",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-25T20:07:39",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-corsair-rmx-series-rm850x-2024-850w-80-gold-modulaire-noir-3468553",
@@ -1138,30 +1150,6 @@
    "composant": "RX 9070 XT",
    "type": "GPU",
    "vu_le": "2026-10-27T21:28:53",
-   "statut": "normal"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen7500x3d-rx-9070-16go-32go-ddr5-ssd-1to-700w-gold-3439202",
-   "titre": "PC de bureau - Ryzen 7500X3D, RX 9070 16 Go, 32 Go DDR5, SSD 1 To, 700W Gold",
-   "prix": 1699.0,
-   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen7500x3d-rx-9070-16go-32go-ddr5-ssd-1to-700w-gold-3439202",
-   "lieu": "CSL Computer",
-   "composant": "DDR5 32 Go",
-   "type": "RAM",
-   "vu_le": "2026-10-26T14:58:28",
-   "statut": "normal"
-  },
-  {
-   "source": "leboncoin",
-   "ext_id": "3295568067",
-   "titre": "Sapphire Pulse AMD Radeon RX 9070 XT 16GB",
-   "prix": 610.0,
-   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3295568067",
-   "lieu": "Condat",
-   "composant": "RX 9070 XT",
-   "type": "GPU",
-   "vu_le": "2026-10-26T14:58:28",
    "statut": "normal"
   }
  ]
