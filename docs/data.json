@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-26 03:23",
- "nouvelles": 2,
+ "maj": "2026-11-26 12:20",
+ "nouvelles": 3,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -106,6 +106,42 @@
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-be-quiet-pure-power-13-m-850w-80-gold-modulaire-noir-3470086",
+   "titre": "Alimentation PC Be Quiet! Pure Power 13 M - 850W, 80+ Gold, Modulaire (Noir)",
+   "prix": 99.95,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-pc-be-quiet-pure-power-13-m-850w-80-gold-modulaire-noir-3470086",
+   "lieu": "Rue du Commerce",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-26T12:20:26",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/msi-rtx-5070-ventus-2x-3470084",
+   "titre": "Carte Graphique MSI RTX 5070 Ventus 2X",
+   "prix": 899.99,
+   "url": "https://www.dealabs.com/bons-plans/msi-rtx-5070-ventus-2x-3470084",
+   "lieu": "Darty",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-26T12:20:26",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/alimentation-corsair-rm850x-2024-850w-atx-31-pcie-51-12v-2x6-natif-full-modulaire-cybenetics-gold-zero-rpm-3469781",
+   "titre": "Alimentation Corsair RM850x (2024) 850W - ATX 3.1, PCIe 5.1, 12V-2x6 natif, full modulaire, Cybenetics Gold, Zero RPM",
+   "prix": 99.99,
+   "url": "https://www.dealabs.com/bons-plans/alimentation-corsair-rm850x-2024-850w-atx-31-pcie-51-12v-2x6-natif-full-modulaire-cybenetics-gold-zero-rpm-3469781",
+   "lieu": "Amazon",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-26T12:20:26",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3469416",
