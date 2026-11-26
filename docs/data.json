@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-25 20:07",
- "nouvelles": 1,
+ "maj": "2026-11-26 03:23",
+ "nouvelles": 2,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -18,7 +18,18 @@
    "type": "CPU",
    "prix_max": 280,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/amd-ryzen-7-7800x3d-3469406",
+    "titre": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs 16 threads R7 7800X3D CPU 4,2 GHz 5 nm 96 Mo 120 W Zen4 DDR5 5200 MHz Socket AM5 CPU",
+    "prix": 215.1,
+    "url": "https://www.dealabs.com/bons-plans/amd-ryzen-7-7800x3d-3469406",
+    "lieu": "AliExpress",
+    "composant": "Ryzen 7 7800X3D",
+    "type": "CPU",
+    "vu_le": "2026-11-26T03:23:24",
+    "statut": "affaire"
+   }
   },
   {
    "nom": "Carte mère B650",
@@ -89,13 +100,36 @@
    }
   }
  ],
- "total": 1193.99,
+ "total": 1409.0900000000001,
  "manquants": [
-  "Ryzen 7 7800X3D",
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3469416",
+   "titre": "Alimentation PC Cooler Master MWE Gold 850W V3 FM ATX3.1 - 850W",
+   "prix": 85.99,
+   "url": "https://www.dealabs.com/bons-plans/cooler-master-mwe-gold-850w-v3-fm-atx31-alimentation-pc-850w-3469416",
+   "lieu": "Cdiscount",
+   "composant": "Alim 850W Gold",
+   "type": "Alimentation",
+   "vu_le": "2026-11-26T03:23:24",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/amd-ryzen-7-7800x3d-3469406",
+   "titre": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs 16 threads R7 7800X3D CPU 4,2 GHz 5 nm 96 Mo 120 W Zen4 DDR5 5200 MHz Socket AM5 CPU",
+   "prix": 215.1,
+   "url": "https://www.dealabs.com/bons-plans/amd-ryzen-7-7800x3d-3469406",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 7800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-26T03:23:24",
+   "statut": "affaire"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/vengeance-rgb-32go-2x16go-ddr5-6000mhz-blanc-cl36-3469253",
