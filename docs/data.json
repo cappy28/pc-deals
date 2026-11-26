@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-26 12:20",
- "nouvelles": 3,
+ "maj": "2026-11-26 21:25",
+ "nouvelles": 6,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -60,17 +60,17 @@
    "nom": "RX 9070 XT",
    "type": "GPU",
    "prix_max": 550,
-   "mediane": 699.0,
+   "mediane": 650.0,
    "meilleure": {
     "source": "leboncoin",
-    "ext_id": "3313443710",
-    "titre": "Rx 9070 xt 16g rdna 4",
-    "prix": 650.0,
-    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3313443710",
-    "lieu": "Sainte-Rose",
+    "ext_id": "3291850553",
+    "titre": "ASUS Prime Radeon RX 9070 XT 16GB GDDR6 White OC Edition Carte Graphique",
+    "prix": 600.0,
+    "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3291850553",
+    "lieu": "Noisy-le-Sec",
     "composant": "RX 9070 XT",
     "type": "GPU",
-    "vu_le": "2026-11-20T22:28:07",
+    "vu_le": "2026-11-26T21:25:36",
     "statut": "normal"
    }
   },
@@ -100,12 +100,84 @@
    }
   }
  ],
- "total": 1409.0900000000001,
+ "total": 1359.0900000000001,
  "manquants": [
   "Carte mère B650",
   "SSD NVMe 2 To"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/msi-carte-graphique-geforce-rtx-5070-12g-ventus-2x-oc-3470516",
+   "titre": "Carte graphique MSI GeForce RTX 5070 12G Ventus 2X OC (Darty)",
+   "prix": 874.99,
+   "url": "https://www.dealabs.com/bons-plans/msi-carte-graphique-geforce-rtx-5070-12g-ventus-2x-oc-3470516",
+   "lieu": "Cdiscount",
+   "composant": "RTX 5070",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3294455016",
+   "titre": "Acer Predator BiFrost Radeon RX 9070 XT OC 16 Go",
+   "prix": 650.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3294455016",
+   "lieu": "Saint-Rome-de-Tarn",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3291850553",
+   "titre": "ASUS Prime Radeon RX 9070 XT 16GB GDDR6 White OC Edition Carte Graphique",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3291850553",
+   "lieu": "Noisy-le-Sec",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3285863791",
+   "titre": "9070 xt saphire pulse",
+   "prix": 750.0,
+   "url": "https://www.leboncoin.fr/ad/ordinateurs/3285863791",
+   "lieu": "Troissy",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3258264074",
+   "titre": "Carte graphique AMD Rx 9070 xt Radeon",
+   "prix": 620.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3258264074",
+   "lieu": "Strasbourg",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
+  {
+   "source": "leboncoin",
+   "ext_id": "3204540866",
+   "titre": "Carte graphique amd Radeon RX9070XT 16gb",
+   "prix": 600.0,
+   "url": "https://www.leboncoin.fr/ad/accessoires_informatique/3204540866",
+   "lieu": "Garges-lès-Gonesse",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-26T21:25:36",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/alimentation-pc-be-quiet-pure-power-13-m-850w-80-gold-modulaire-noir-3470086",
