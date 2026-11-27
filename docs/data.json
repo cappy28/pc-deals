@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-26 21:25",
- "nouvelles": 6,
+ "maj": "2026-11-27 04:06",
+ "nouvelles": 4,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
@@ -79,7 +79,18 @@
    "type": "SSD",
    "prix_max": 120,
    "mediane": null,
-   "meilleure": null
+   "meilleure": {
+    "source": "dealabs",
+    "ext_id": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-m2-nvme-pcie-gen4x4-2to-3471050",
+    "titre": "Disque SSD interne Netac M.2 NVMe PCIe Gen4x4 2To",
+    "prix": 182.99,
+    "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-m2-nvme-pcie-gen4x4-2to-3471050",
+    "lieu": "AliExpress",
+    "composant": "SSD NVMe 2 To",
+    "type": "SSD",
+    "vu_le": "2026-11-27T04:06:41",
+    "statut": "normal"
+   }
   },
   {
    "nom": "Alim 850W Gold",
@@ -100,12 +111,59 @@
    }
   }
  ],
- "total": 1359.0900000000001,
+ "total": 1542.0800000000002,
  "manquants": [
-  "Carte mère B650",
-  "SSD NVMe 2 To"
+  "Carte mère B650"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3471188",
+   "titre": "Processeur AMD 9800X3D (33€ via PayPal)",
+   "prix": 273.94,
+   "url": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3471188",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-27T04:06:41",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/sapphire-pulse-radeon-rx-9070-xt-3471148",
+   "titre": "Carte graphique Sapphire Pulse Radeon RX 9070 XT",
+   "prix": 932.45,
+   "url": "https://www.dealabs.com/bons-plans/sapphire-pulse-radeon-rx-9070-xt-3471148",
+   "lieu": "Amazon.it",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-27T04:06:41",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/amd-ryzen-7-9800x3d-processeur-de-jeu-8-coeurs-16-threads-52-ghz-96-mo-de-cache-l3-socket-am5-3471058",
+   "titre": "Processeur AMD Ryzen 7 9800X3D - 8 cœurs, 16 threads, 5,2 GHz, 96 Mo de cache L3, socket AM5",
+   "prix": 290.85,
+   "url": "https://www.dealabs.com/bons-plans/amd-ryzen-7-9800x3d-processeur-de-jeu-8-coeurs-16-threads-52-ghz-96-mo-de-cache-l3-socket-am5-3471058",
+   "lieu": "AliExpress",
+   "composant": "Ryzen 7 9800X3D",
+   "type": "CPU",
+   "vu_le": "2026-11-27T04:06:41",
+   "statut": "affaire"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-m2-nvme-pcie-gen4x4-2to-3471050",
+   "titre": "Disque SSD interne Netac M.2 NVMe PCIe Gen4x4 2To",
+   "prix": 182.99,
+   "url": "https://www.dealabs.com/bons-plans/disque-ssd-interne-netac-m2-nvme-pcie-gen4x4-2to-3471050",
+   "lieu": "AliExpress",
+   "composant": "SSD NVMe 2 To",
+   "type": "SSD",
+   "vu_le": "2026-11-27T04:06:41",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/msi-carte-graphique-geforce-rtx-5070-12g-ventus-2x-oc-3470516",
@@ -1280,18 +1338,6 @@
    "composant": "RX 9070 XT",
    "type": "GPU",
    "vu_le": "2026-10-28T18:59:21",
-   "statut": "normal"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/pure-radeon-rx-9070-xt-gaming-oc-16gb-3440165",
-   "titre": "Carte Graphique Sapphire Radeon RX 9070 XT Pure Gaming OC 16 Go",
-   "prix": 899.99,
-   "url": "https://www.dealabs.com/bons-plans/pure-radeon-rx-9070-xt-gaming-oc-16gb-3440165",
-   "lieu": "Amazon",
-   "composant": "RX 9070 XT",
-   "type": "GPU",
-   "vu_le": "2026-10-27T21:28:53",
    "statut": "normal"
   }
  ]
