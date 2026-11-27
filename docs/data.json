@@ -1,8 +1,8 @@
 {
- "maj": "2026-11-27 04:06",
- "nouvelles": 4,
+ "maj": "2026-11-27 13:58",
+ "nouvelles": 2,
  "erreurs": [
-  "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
+  "Leboncoin : bloqué/erreur sur 'rx 9070 xt' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
  ],
  "types": [
   "Alimentation",
@@ -116,6 +116,30 @@
   "Carte mère B650"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7800x3d-ssd-nvme-2to-gen4-rx-9070-xt-16go-32go-ddr5-6000mhz-b850-wifi-850w-gold-pure-rock-3-3472123",
+   "titre": "PC de bureau, Ryzen 7800X3D, SSD Nvme 2To Gen4, Rx 9070 XT 16Go, 32Go DDR5 6000Mhz, B850 Wifi, 850W Gold, Pure Rock 3",
+   "prix": 2234.67,
+   "url": "https://www.dealabs.com/bons-plans/pc-de-bureau-ryzen-7800x3d-ssd-nvme-2to-gen4-rx-9070-xt-16go-32go-ddr5-6000mhz-b850-wifi-850w-gold-pure-rock-3-3472123",
+   "lieu": "ONE.de",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-27T13:58:29",
+   "statut": "normal"
+  },
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/9070-xt-xfx-3472169",
+   "titre": "Carte Graphique 9070 XT XFX",
+   "prix": 879.0,
+   "url": "https://www.dealabs.com/bons-plans/9070-xt-xfx-3472169",
+   "lieu": "Alternate",
+   "composant": "RX 9070 XT",
+   "type": "GPU",
+   "vu_le": "2026-11-27T13:58:29",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3471188",
