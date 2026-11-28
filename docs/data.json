@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27 22:54",
+ "maj": "2026-11-28 04:45",
  "nouvelles": 1,
  "erreurs": [
   "Leboncoin : bloqué/erreur sur 'rtx 5070' : Access blocked by Datadome: your activity was flagged as suspicious. Please avoid sending excessive requests."
@@ -116,6 +116,18 @@
   "Carte mère B650"
  ],
  "offres": [
+  {
+   "source": "dealabs",
+   "ext_id": "https://www.dealabs.com/bons-plans/msi-vector-18-hx-ai-18-qhd-ultra-9-275hx-rtx-5070-ti-12-go-ram-32-go-ddr5-ssd-2-to-windows-11-3473270",
+   "titre": "MSI Vector 18 HX AI – 18\" QHD+ – Ultra 9 275HX – RTX 5070 Ti 12 Go – RAM 32 Go DDR5 – SSD 2 To – Windows 11",
+   "prix": 2299.0,
+   "url": "https://www.dealabs.com/bons-plans/msi-vector-18-hx-ai-18-qhd-ultra-9-275hx-rtx-5070-ti-12-go-ram-32-go-ddr5-ssd-2-to-windows-11-3473270",
+   "lieu": "Bol",
+   "composant": "DDR5 32 Go",
+   "type": "RAM",
+   "vu_le": "2026-11-28T04:45:43",
+   "statut": "normal"
+  },
   {
    "source": "dealabs",
    "ext_id": "https://www.dealabs.com/bons-plans/crucial-pro-ram-ddr5-64go-kit-2x32go-6400mhz-cl40-3473076",
@@ -1339,18 +1351,6 @@
    "type": "RAM",
    "vu_le": "2026-10-29T21:29:26",
    "statut": "normal"
-  },
-  {
-   "source": "dealabs",
-   "ext_id": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3440591",
-   "titre": "[Via Paypal] Processeur AMD Ryzen 7 9800X3D - 8 cœurs, 5,2 GHz, 96 Mo L3, TDP 120 W, AM5",
-   "prix": 289.34,
-   "url": "https://www.dealabs.com/bons-plans/via-paypal-processeur-amd-ryzen-7-9800x3d-8-coeurs-52-ghz-96-mo-l3-tdp-120-w-am5-3440591",
-   "lieu": "AliExpress",
-   "composant": "Ryzen 7 9800X3D",
-   "type": "CPU",
-   "vu_le": "2026-10-29T02:55:51",
-   "statut": "affaire"
   }
  ]
 }
